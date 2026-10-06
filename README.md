@@ -1,26 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:1e293b,100:334155&amp;height=220&amp;section=header&amp;text=Mohamed%20Adel&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Data%20%26%20Business%20Analyst&amp;descAlignY=58&amp;descSize=20&amp;animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Mohamed%20Adel&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Data%20%26%20Business%20Analyst&descAlignY=60&descSize=20" width="100%"/>
 
 # Mohamed Adel
 
 ### Data & Business Analyst
 
-**Turning data into insights, dashboards, and better business decisions.**
+*Turning data into clear insights and smarter business decisions.*
 
 <p>
   <a href="https://linkedin.com/in/mohamed-a-adel">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mohamed.a.adel@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white"/>
-  </a>
-  <a href="https://github.com/mohamed-a-adel">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=mohamed-a-adel&amp;style=flat-square&amp;color=334155&amp;label=PROFILE+VIEWS" />
 
 </div>
 
@@ -28,59 +23,57 @@
 
 ## 👋 About Me
 
-I'm **Mohamed Adel**, a **Data & Business Analyst** focused on turning raw data into clear, actionable business insights.
+I'm **Mohamed Adel**, a **Data & Business Analyst** interested in transforming raw data into meaningful insights that support better business decisions.
 
-I enjoy working across the analytics workflow — from **data cleaning and SQL analysis** to **dashboard development, KPI tracking, and business storytelling**.
-
-> **My goal:** make data easier to understand, decisions easier to make, and business performance easier to improve.
+My focus is on **data analysis, SQL, business intelligence, dashboards, and data visualization** — connecting technical analysis with real business questions.
 
 ---
 
-## 🎯 Core Expertise
+## 🎯 What I Do
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ### 📊
-**Data Analytics**
+**Data Analysis**
 
-Data Cleaning  
+Cleaning  
 EDA  
-Data Transformation  
-Trend Analysis
+Trends  
+Insights
 
 </td>
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ### 🗄️
-**SQL & Databases**
+**SQL**
 
-SQL Analysis  
-Joins & Aggregations  
+Queries  
+Joins  
 CTEs  
-Business Queries
+Aggregations
 
 </td>
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ### 📈
 **Business Intelligence**
 
 Power BI  
-Dashboards  
 KPIs  
-DAX & Reporting
+Dashboards  
+DAX
 
 </td>
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ### 💡
 **Business Insights**
 
-Performance Analysis  
-Problem Solving  
-Data Storytelling  
+Analysis  
+Reporting  
+Visualization  
 Decision Support
 
 </td>
@@ -91,82 +84,50 @@ Decision Support
 
 ## 🛠️ Tech Stack
 
-### 📊 Analytics & Visualization
+### Data & Analytics
 
 <p>
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&amp;logo=python&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=111827"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827" />
 </p>
 
-### 🗄️ Databases & SQL
+### SQL & Databases
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&amp;logo=postgresql&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&amp;logo=sqlite&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
-### ⚙️ Tools
+### Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 
 ---
 
-## 📌 Analytics Capabilities
+## 📌 Analytics Skills
 
-| Area | What I Work With |
-|---|---|
-| **Data Preparation** | Cleaning, Transformation, Validation |
-| **Exploratory Analysis** | EDA, Trends, Patterns, Outliers |
-| **SQL Analytics** | Joins, CTEs, Subqueries, Aggregations |
-| **Business Intelligence** | Power BI, DAX, Data Modeling |
-| **Visualization** | Dashboards, Reports, KPI Tracking |
-| **Business Analysis** | Performance Analysis, Insights, Decision Support |
-| **Python Analytics** | Pandas, NumPy, Data Exploration |
+| Category | Skills |
+|:--|:--|
+| **Data Analysis** | Data Cleaning • EDA • Data Transformation • Trend Analysis |
+| **Business Analytics** | KPIs • Performance Analysis • Business Insights |
+| **SQL** | Joins • Aggregations • CTEs • Subqueries |
+| **BI & Visualization** | Power BI • Dashboards • DAX • Data Storytelling |
+| **Python** | Pandas • NumPy • Data Analysis |
 
 ---
 
-## 📚 Currently Developing
+## 📚 Currently Learning
 
-- Advanced SQL & analytical querying
-- Power BI & DAX
-- Data modeling & dashboard design
-- Python for advanced data analysis
-- Business intelligence & data storytelling
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohamed-a-adel&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;rank_icon=github&amp;include_all_commits=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=mohamed-a-adel&amp;hide_border=true&amp;theme=transparent" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-a-adel&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;langs_count=8" height="150"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohamed-a-adel&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=7" width="90%"/>
-
-</div>
+`Advanced SQL` &nbsp; `Power BI` &nbsp; `DAX` &nbsp; `Data Modeling` &nbsp; `Python Analytics`
 
 ---
 
@@ -174,26 +135,22 @@ Decision Support
 
 <div align="center">
 
-If you're interested in **data analytics, business intelligence, dashboards, or turning data into actionable insights**, feel free to connect.
-
-<br/>
-
 <a href="https://linkedin.com/in/mohamed-a-adel">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="mailto:mohamed.a.adel@outlook.com">
-<img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/mohamed-a-adel">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-### `DATA` • `BUSINESS` • `INSIGHTS` • `DECISIONS`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:334155,50:1e293b,100:0f172a&amp;height=110&amp;section=footer"/>
+**Data • Business • Analytics • Insights**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer" width="100%"/>
